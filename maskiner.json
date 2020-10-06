@@ -1,0 +1,20 @@
+{
+    "1": {
+        "navn": "Caf",
+        "kaffe": 100,
+        "maelk": 100,
+        "vand": "True"
+    },
+    "2": {
+        "navn": "1. Sal",
+        "kaffe": 100,
+        "maelk": 100,
+        "vand": "True"
+    },
+    "3": {
+        "navn": "2. Sal",
+        "kaffe": 100,
+        "maelk": 100,
+        "vand": "True"
+    }
+}
