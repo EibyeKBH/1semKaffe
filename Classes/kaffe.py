@@ -1,5 +1,9 @@
+# coding=utf-8
+# Importere json, så vi kan læse vores json fil
+import json
+
 class Kaffe:
-    def __init__(self, kaffe, mælk, vand) -> None:
+    def __init__(self, kaffe, maelk, vand):
         self.kaffe = kaffe
-        self.mælk = mælk
+        self.maelk = maelk
         self.vand = vand
